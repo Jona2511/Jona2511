@@ -8,31 +8,31 @@ spare time I build tools that make IT work and hobbies easier.
 
 **Microsoft & cloud**
 
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge)
-![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge)
-![Intune](https://img.shields.io/badge/Intune-0078D4?style=for-the-badge)
-![Exchange Online](https://img.shields.io/badge/Exchange_Online-0078D4?style=for-the-badge)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge)
+[![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge)](https://www.microsoft.com/microsoft-365)
+[![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge)](https://www.microsoft.com/security/business/microsoft-entra)
+[![Intune](https://img.shields.io/badge/Intune-0078D4?style=for-the-badge)](https://www.microsoft.com/security/business/microsoft-intune)
+[![Exchange Online](https://img.shields.io/badge/Exchange_Online-0078D4?style=for-the-badge)](https://www.microsoft.com/microsoft-365/exchange/exchange-online)
+[![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge)](https://www.microsoft.com/windows-server)
 
 **Security**
 
-![Sophos](https://img.shields.io/badge/Sophos-005BC8?style=for-the-badge)
-![Huntress](https://img.shields.io/badge/Huntress-1B1B1B?style=for-the-badge)
-![AwareTrain](https://img.shields.io/badge/AwareTrain-2E7D32?style=for-the-badge)
+[![Sophos](https://img.shields.io/badge/Sophos-005BC8?style=for-the-badge)](https://www.sophos.com)
+[![Huntress](https://img.shields.io/badge/Huntress-1B1B1B?style=for-the-badge)](https://www.huntress.com)
+[![AwareTrain](https://img.shields.io/badge/AwareTrain-2E7D32?style=for-the-badge)](https://www.awaretrain.com)
 
 **Networking & infrastructure**
 
-![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
-![Synology](https://img.shields.io/badge/Synology-B5B5B6?style=for-the-badge&logo=synology&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Xelion](https://img.shields.io/badge/Xelion-E4572E?style=for-the-badge)
+[![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)](https://ui.com)
+[![Synology](https://img.shields.io/badge/Synology-B5B5B6?style=for-the-badge&logo=synology&logoColor=white)](https://www.synology.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![Xelion](https://img.shields.io/badge/Xelion-E4572E?style=for-the-badge)](https://www.xelion.com)
 
 **Service desk & automation**
 
-![HaloPSA](https://img.shields.io/badge/HaloPSA-1D3557?style=for-the-badge)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Microsoft Graph](https://img.shields.io/badge/Microsoft_Graph-0078D4?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![HaloPSA](https://img.shields.io/badge/HaloPSA-1D3557?style=for-the-badge)](https://www.usehalo.com)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
+[![Microsoft Graph](https://img.shields.io/badge/Microsoft_Graph-0078D4?style=for-the-badge)](https://learn.microsoft.com/graph/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
 ## 🚀 Projects
 
