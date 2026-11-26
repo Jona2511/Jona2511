@@ -16,7 +16,7 @@ spare time I build tools that make IT work and hobbies easier.
 - ☎️ **Telephony**: managing Xelion VoIP for customers
 - 🛡️ **Security**: endpoint protection with Sophos and Huntress, security awareness training with AwareTrain
 - ⚙️ **Automation**: PowerShell and Microsoft Graph scripts that take repetitive admin work off my hands
-- 🎫 **Service desk**: solving customer tickets in HaloPSA
+- 🎫 **Customer work**: handling customer projects and assigned tickets in HaloPSA
 - 🏠 **Home lab**: Synology NAS running Docker, where I host my own websites
 
 ## 🛠️ Tech I work with
@@ -43,7 +43,7 @@ spare time I build tools that make IT work and hobbies easier.
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 [![Xelion](https://img.shields.io/badge/Xelion-E4572E?style=for-the-badge)](https://www.xelion.com)
 
-**Service desk & automation**
+**Tools & automation**
 
 [![HaloPSA](https://img.shields.io/badge/HaloPSA-1D3557?style=for-the-badge)](https://www.usehalo.com)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
