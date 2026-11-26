@@ -64,4 +64,4 @@ spare time I build tools that make IT work and hobbies easier.
 
 ![GitHub streak](https://streak-stats.demolab.com?user=Jona2511&theme=onedark&hide_border=true)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Jona2511&theme=onedark&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](./assets/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)

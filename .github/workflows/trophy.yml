@@ -1,0 +1,38 @@
+name: Update trophies
+
+on:
+  schedule:
+    - cron: "17 3 * * *" # every day at 03:17 UTC
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/trophy.yml
+
+permissions:
+  contents: write
+
+jobs:
+  trophy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate trophy SVG
+        uses: ryo-ma/github-profile-trophy@43736b50a82fca73c8df1c81abb40aa03519975c
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: assets/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: onedark
+
+      - name: Commit if changed
+        run: |
+          git add assets/trophy.svg
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "Update trophies"
+            git push
+          fi
