@@ -1,8 +1,23 @@
+<p align="center">
+  <a href="https://github.com/Jona2511"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=IT+engineer+at+a+Managed+Service+Provider;Microsoft+365+%7C+Entra+ID+%7C+Intune;Automating+admin+work+with+PowerShell;Building+tools+%26+editing+astrophotos" alt="Typing header" /></a>
+</p>
+
 # Hi, I'm Jonathan 👋
 
 IT engineer at a Managed Service Provider in the Netherlands. I work daily with
 Microsoft 365, Entra ID, Intune, Windows Server, UniFi and PowerShell, and in my
 spare time I build tools that make IT work and hobbies easier.
+
+## 💼 What I do
+
+- 🧩 **Modern Workplace**: setting up and managing Microsoft 365 tenants with Entra ID, Intune, Autopilot, Conditional Access and company branding
+- 📬 **Email**: managing Exchange Online mailboxes and archiving
+- 📶 **Networking**: installing and managing UniFi WiFi networks at customer sites
+- ☎️ **Telephony**: managing Xelion VoIP for customers
+- 🛡️ **Security**: endpoint protection with Sophos and Huntress, security awareness training with AwareTrain
+- ⚙️ **Automation**: PowerShell and Microsoft Graph scripts that take repetitive admin work off my hands
+- 🎫 **Service desk**: solving customer tickets in HaloPSA
+- 🏠 **Home lab**: Synology NAS running Docker, where I host my own websites
 
 ## 🛠️ Tech I work with
 
@@ -11,6 +26,7 @@ spare time I build tools that make IT work and hobbies easier.
 [![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge)](https://www.microsoft.com/microsoft-365)
 [![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge)](https://www.microsoft.com/security/business/microsoft-entra)
 [![Intune](https://img.shields.io/badge/Intune-0078D4?style=for-the-badge)](https://www.microsoft.com/security/business/microsoft-intune)
+[![Autopilot](https://img.shields.io/badge/Autopilot-0078D4?style=for-the-badge)](https://learn.microsoft.com/autopilot/)
 [![Exchange Online](https://img.shields.io/badge/Exchange_Online-0078D4?style=for-the-badge)](https://www.microsoft.com/microsoft-365/exchange/exchange-online)
 [![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge)](https://www.microsoft.com/windows-server)
 
