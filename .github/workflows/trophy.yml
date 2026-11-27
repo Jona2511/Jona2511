@@ -5,8 +5,10 @@ on:
     - cron: "17 3 * * *" # every day at 03:17 UTC
   workflow_dispatch:
   push:
+    branches: [main]
     paths:
       - .github/workflows/trophy.yml
+      - trophy.ts
 
 permissions:
   contents: write
@@ -17,13 +19,23 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate trophy SVG
-        uses: ryo-ma/github-profile-trophy@43736b50a82fca73c8df1c81abb40aa03519975c
+      - uses: actions/checkout@v4
         with:
-          username: ${{ github.repository_owner }}
-          output_path: assets/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          theme: onedark
+          repository: ryo-ma/github-profile-trophy
+          ref: 43736b50a82fca73c8df1c81abb40aa03519975c
+          path: trophy-src
+
+      - uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+
+      - name: Generate trophy SVG
+        env:
+          GITHUB_TOKEN1: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p assets
+          cp trophy.ts trophy-src/trophy.ts
+          cd trophy-src && deno run --allow-net --allow-env --allow-read --allow-write trophy.ts ${{ github.repository_owner }} ../assets/trophy.svg
 
       - name: Commit if changed
         run: |
